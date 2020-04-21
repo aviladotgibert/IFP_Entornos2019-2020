@@ -1,0 +1,23 @@
+C:\Users\will1\source\repos\AppFormulario\AppFormulario\bin\Debug\AppFormulario.exe.config
+C:\Users\will1\source\repos\AppFormulario\AppFormulario\bin\Debug\AppFormulario.exe
+C:\Users\will1\source\repos\AppFormulario\AppFormulario\bin\Debug\AppFormulario.pdb
+C:\Users\will1\source\repos\AppFormulario\AppFormulario\bin\Debug\AppFormulario.xml
+C:\Users\will1\source\repos\AppFormulario\AppFormulario\obj\Debug\AppFormulario.vbprojAssemblyReference.cache
+C:\Users\will1\source\repos\AppFormulario\AppFormulario\obj\Debug\AppFormulario.Form1.resources
+C:\Users\will1\source\repos\AppFormulario\AppFormulario\obj\Debug\AppFormulario.Resources.resources
+C:\Users\will1\source\repos\AppFormulario\AppFormulario\obj\Debug\AppFormulario.vbproj.GenerateResource.cache
+C:\Users\will1\source\repos\AppFormulario\AppFormulario\obj\Debug\AppFormulario.exe
+C:\Users\will1\source\repos\AppFormulario\AppFormulario\obj\Debug\AppFormulario.xml
+C:\Users\will1\source\repos\AppFormulario\AppFormulario\obj\Debug\AppFormulario.pdb
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Wilmer_Yamauchi\AppFormulario\bin\Debug\AppFormulario.exe.config
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Wilmer_Yamauchi\AppFormulario\bin\Debug\AppFormulario.exe
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Wilmer_Yamauchi\AppFormulario\bin\Debug\AppFormulario.pdb
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Wilmer_Yamauchi\AppFormulario\bin\Debug\AppFormulario.xml
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Wilmer_Yamauchi\AppFormulario\obj\Debug\AppFormulario.vbprojAssemblyReference.cache
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Wilmer_Yamauchi\AppFormulario\obj\Debug\AppFormulario.Form1.resources
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Wilmer_Yamauchi\AppFormulario\obj\Debug\AppFormulario.Resources.resources
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Wilmer_Yamauchi\AppFormulario\obj\Debug\AppFormulario.vbproj.GenerateResource.cache
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Wilmer_Yamauchi\AppFormulario\obj\Debug\AppFormulario.vbproj.CoreCompileInputs.cache
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Wilmer_Yamauchi\AppFormulario\obj\Debug\AppFormulario.exe
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Wilmer_Yamauchi\AppFormulario\obj\Debug\AppFormulario.xml
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Wilmer_Yamauchi\AppFormulario\obj\Debug\AppFormulario.pdb
