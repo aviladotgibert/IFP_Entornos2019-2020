@@ -1,0 +1,26 @@
+C:\Users\cabra\source\repos\Evaluacion\Evaluacion\bin\Debug\Evaluacion.exe.config
+C:\Users\cabra\source\repos\Evaluacion\Evaluacion\bin\Debug\Evaluacion.exe
+C:\Users\cabra\source\repos\Evaluacion\Evaluacion\bin\Debug\Evaluacion.pdb
+C:\Users\cabra\source\repos\Evaluacion\Evaluacion\bin\Debug\Evaluacion.xml
+C:\Users\cabra\source\repos\Evaluacion\Evaluacion\obj\Debug\Evaluacion.vbprojAssemblyReference.cache
+C:\Users\cabra\source\repos\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Resources.resources
+C:\Users\cabra\source\repos\Evaluacion\Evaluacion\obj\Debug\Evaluacion.vbproj.GenerateResource.cache
+C:\Users\cabra\source\repos\Evaluacion\Evaluacion\obj\Debug\Evaluacion.exe
+C:\Users\cabra\source\repos\Evaluacion\Evaluacion\obj\Debug\Evaluacion.xml
+C:\Users\cabra\source\repos\Evaluacion\Evaluacion\obj\Debug\Evaluacion.pdb
+C:\Users\cabra\source\repos\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Form2.resources
+C:\Users\cabra\source\repos\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Form_SUMA.resources
+C:\Users\cabra\source\repos\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Form_Resta.resources
+C:\Users\cabra\source\repos\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Form_Multiplicacion.resources
+C:\Users\cabra\source\repos\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Form_Division.resources
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Cabral_J\M5UF1A2_Jose_Cabral\Evaluacion\Evaluacion\obj\Debug\Evaluacion.vbprojAssemblyReference.cache
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Cabral_J\M5UF1A2_Jose_Cabral\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Form2.resources
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Cabral_J\M5UF1A2_Jose_Cabral\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Form_Division.resources
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Cabral_J\M5UF1A2_Jose_Cabral\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Form_Multiplicacion.resources
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Cabral_J\M5UF1A2_Jose_Cabral\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Form_Resta.resources
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Cabral_J\M5UF1A2_Jose_Cabral\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Form_SUMA.resources
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Cabral_J\M5UF1A2_Jose_Cabral\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Resources.resources
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Cabral_J\M5UF1A2_Jose_Cabral\Evaluacion\Evaluacion\obj\Debug\Evaluacion.vbproj.GenerateResource.cache
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Cabral_J\M5UF1A2_Jose_Cabral\Evaluacion\Evaluacion\obj\Debug\Evaluacion.exe
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Cabral_J\M5UF1A2_Jose_Cabral\Evaluacion\Evaluacion\obj\Debug\Evaluacion.xml
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Cabral_J\M5UF1A2_Jose_Cabral\Evaluacion\Evaluacion\obj\Debug\Evaluacion.pdb
