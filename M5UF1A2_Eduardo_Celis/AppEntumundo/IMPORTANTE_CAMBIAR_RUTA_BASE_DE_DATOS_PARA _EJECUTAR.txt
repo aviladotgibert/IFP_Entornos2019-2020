@@ -1,0 +1,3 @@
+Sebe debe cambiar la ruta de ubicacion del fichero base de datos "@AppEntumundo.mdf" en el fichero "Form.vb"
+
+E:\ProyectosWEB\AppEntumundo\AppEntumundo\AppEntumundo.mdf

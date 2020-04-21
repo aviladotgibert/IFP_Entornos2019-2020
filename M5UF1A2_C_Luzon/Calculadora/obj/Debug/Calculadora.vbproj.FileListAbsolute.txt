@@ -1,0 +1,23 @@
+E:\Usuarios\Cristian\IFP\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\Usuarios\Cristian\IFP\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\Usuarios\Cristian\IFP\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\Usuarios\Cristian\IFP\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+E:\Usuarios\Cristian\IFP\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.vbprojAssemblyReference.cache
+E:\Usuarios\Cristian\IFP\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Resources.resources
+E:\Usuarios\Cristian\IFP\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.cache
+E:\Usuarios\Cristian\IFP\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\Usuarios\Cristian\IFP\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.xml
+E:\Usuarios\Cristian\IFP\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\Usuarios\Cristian\IFP\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.frm_Calculator.resources
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_C_Luzon\Calculadora\bin\Debug\Calculadora.exe.config
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_C_Luzon\Calculadora\bin\Debug\Calculadora.exe
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_C_Luzon\Calculadora\bin\Debug\Calculadora.pdb
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_C_Luzon\Calculadora\bin\Debug\Calculadora.xml
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_C_Luzon\Calculadora\obj\Debug\Calculadora.vbprojAssemblyReference.cache
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_C_Luzon\Calculadora\obj\Debug\Calculadora.frm_Calculator.resources
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_C_Luzon\Calculadora\obj\Debug\Calculadora.Resources.resources
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_C_Luzon\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.cache
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_C_Luzon\Calculadora\obj\Debug\Calculadora.vbproj.CoreCompileInputs.cache
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_C_Luzon\Calculadora\obj\Debug\Calculadora.exe
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_C_Luzon\Calculadora\obj\Debug\Calculadora.xml
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_C_Luzon\Calculadora\obj\Debug\Calculadora.pdb
