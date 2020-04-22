@@ -1,0 +1,50 @@
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\proyecto\proyecto\bin\Debug\proyecto.exe.config
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\proyecto\proyecto\bin\Debug\proyecto.exe
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\proyecto\proyecto\bin\Debug\proyecto.pdb
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\proyecto\proyecto\bin\Debug\proyecto.xml
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\proyecto\proyecto\obj\Debug\proyecto.vbprojAssemblyReference.cache
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\proyecto\proyecto\obj\Debug\proyecto.Form1.resources
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\proyecto\proyecto\obj\Debug\proyecto.Resources.resources
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\proyecto\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.cache
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\proyecto\proyecto\obj\Debug\proyecto.exe
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\proyecto\proyecto\obj\Debug\proyecto.xml
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\pc\Google Drive\cole\DAM\DAM2\M5 Entornos de Desarrollo\Proyecto Calculadora\proyecto\proyecto\obj\Debug\proyecto.vbprojAssemblyReference.cache
+C:\Users\pc\Google Drive\cole\DAM\DAM2\M5 Entornos de Desarrollo\Proyecto Calculadora\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\pc\Google Drive\cole\DAM\DAM2\M5 Entornos de Desarrollo\Proyecto Calculadora\proyecto\proyecto\obj\Debug\proyecto.xml
+C:\Users\pc\Google Drive\cole\DAM\DAM2\M5 Entornos de Desarrollo\Proyecto Calculadora\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\pc\Google Drive\cole\DAM\DAM2\M5 Entornos de Desarrollo\Proyecto Calculadora\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\pc\Google Drive\cole\DAM\DAM2\M5 Entornos de Desarrollo\Proyecto Calculadora\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\pc\Google Drive\cole\DAM\DAM2\M5 Entornos de Desarrollo\Proyecto Calculadora\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\pc\Google Drive\cole\DAM\DAM2\M5 Entornos de Desarrollo\Proyecto Calculadora\proyecto\proyecto\bin\Debug\proyecto.xml
+C:\Users\pc\Google Drive\cole\DAM\DAM2\M5 Entornos de Desarrollo\Proyecto Calculadora\proyecto\proyecto\obj\Debug\proyecto.Form1.resources
+C:\Users\pc\Google Drive\cole\DAM\DAM2\M5 Entornos de Desarrollo\Proyecto Calculadora\proyecto\proyecto\obj\Debug\proyecto.Form2.resources
+C:\Users\pc\Google Drive\cole\DAM\DAM2\M5 Entornos de Desarrollo\Proyecto Calculadora\proyecto\proyecto\obj\Debug\proyecto.Resources.resources
+C:\Users\pc\Google Drive\cole\DAM\DAM2\M5 Entornos de Desarrollo\Proyecto Calculadora\proyecto\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.cache
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\final\proyecto\proyecto\bin\Debug\proyecto.exe.config
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\final\proyecto\proyecto\bin\Debug\proyecto.exe
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\final\proyecto\proyecto\bin\Debug\proyecto.pdb
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\final\proyecto\proyecto\bin\Debug\proyecto.xml
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\final\proyecto\proyecto\obj\Debug\proyecto.vbprojAssemblyReference.cache
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\final\proyecto\proyecto\obj\Debug\proyecto.Form1.resources
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\final\proyecto\proyecto\obj\Debug\proyecto.Form2.resources
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\final\proyecto\proyecto\obj\Debug\proyecto.Resources.resources
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\final\proyecto\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.cache
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\final\proyecto\proyecto\obj\Debug\proyecto.exe
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\final\proyecto\proyecto\obj\Debug\proyecto.xml
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\final\proyecto\proyecto\obj\Debug\proyecto.pdb
+D:\SEGUNDO_IFP\entorno de desarrollos\proyectos\final\proyecto\proyecto\obj\Debug\proyecto.Form3.resources
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Marc_Allepuz_Y_Oscar_Badia\proyecto\bin\Debug\proyecto.exe.config
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Marc_Allepuz_Y_Oscar_Badia\proyecto\bin\Debug\proyecto.exe
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Marc_Allepuz_Y_Oscar_Badia\proyecto\bin\Debug\proyecto.pdb
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Marc_Allepuz_Y_Oscar_Badia\proyecto\bin\Debug\proyecto.xml
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Marc_Allepuz_Y_Oscar_Badia\proyecto\obj\Debug\proyecto.vbprojAssemblyReference.cache
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Marc_Allepuz_Y_Oscar_Badia\proyecto\obj\Debug\proyecto.Form1.resources
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Marc_Allepuz_Y_Oscar_Badia\proyecto\obj\Debug\proyecto.Form2.resources
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Marc_Allepuz_Y_Oscar_Badia\proyecto\obj\Debug\proyecto.Form3.resources
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Marc_Allepuz_Y_Oscar_Badia\proyecto\obj\Debug\proyecto.Resources.resources
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Marc_Allepuz_Y_Oscar_Badia\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.cache
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Marc_Allepuz_Y_Oscar_Badia\proyecto\obj\Debug\proyecto.vbproj.CoreCompileInputs.cache
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Marc_Allepuz_Y_Oscar_Badia\proyecto\obj\Debug\proyecto.exe
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Marc_Allepuz_Y_Oscar_Badia\proyecto\obj\Debug\proyecto.xml
+F:\Documentos\Cursos IFP\DAM2\MP05 - Entornos de desarrollo\UF1- Desarrollo de Software\Actividades\M5UF1A2 - Programas desarrollados de VisualStudio\M5UF1A2_Marc_Allepuz_Y_Oscar_Badia\proyecto\obj\Debug\proyecto.pdb
